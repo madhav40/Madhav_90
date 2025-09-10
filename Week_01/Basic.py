@@ -72,6 +72,6 @@
 # for number in range(6 , 12 , 2):
 #     print(number)
 
-number = (1,2,3)
+number = (1,2,7)
 number[0] = 10
 print(number)
